@@ -17,3 +17,4 @@ The classifier runs on **Google Gemini 2.5 Flash**. It's a fast, cheap vision mo
 There's no sign-up or password flow. Visitors get an **anonymous Supabase session** automatically. This keeps the demo frictionless and the codebase small, auth is deliberately left out for simplicity. For the same reason, `/admin` is **not access-controlled**; treat it as a demo dashboard, not a  
 secured surface.
 
+There's no way to report a wrong answer through the API.
